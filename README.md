@@ -1,0 +1,2 @@
+# TrusteeShipAOP.Core
+TrusteeShipAOP.Core
